@@ -1,3 +1,10 @@
+BODY {
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 h1 {
     background-color: aqua;
+    font-size: large;
 }
+
